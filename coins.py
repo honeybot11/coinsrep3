@@ -1,6 +1,6 @@
 cid ="56663260"
 
-from keep_alive import keep_alive
+#from keep_alive import keep_alive
 import os
 os.system("pip install Dick.py")
 try:
